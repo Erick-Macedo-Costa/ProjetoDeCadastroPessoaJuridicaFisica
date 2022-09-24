@@ -1,0 +1,9 @@
+com\projeto\projetoCadPessoas\model\entity\PessoaJuridica.class
+com\projeto\projetoCadPessoas\model\repository\PessoaFRepository.class
+com\projeto\projetoCadPessoas\controller\PessoaFController.class
+com\projeto\projetoCadPessoas\ConfiguracaoSpringMvc.class
+com\projeto\projetoCadPessoas\model\entity\Pessoa.class
+com\projeto\projetoCadPessoas\model\entity\PessoaFisica.class
+com\projeto\projetoCadPessoas\ProjetoCadPessoasApplication.class
+com\projeto\projetoCadPessoas\controller\PessoaJController.class
+com\projeto\projetoCadPessoas\model\repository\PessoaJRepository.class
